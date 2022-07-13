@@ -1,10 +1,14 @@
 # ruby-morse
 
-> 
+A simple morse code decoder using ruby :)!
 
 ## Getting Started
 
-
+To get a local copy on this project on your machine follow these steps
+- Open your terminal
+- Clone this repo "git clone https://github.com/rega1237/ruby-morse"
+- Open the project with you favorite code editor
+- Enjoy!
 
 
 ## Authors
